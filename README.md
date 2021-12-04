@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @beachbuddy, I am a former physics student, geophysics student, aircraft avionics tech, Non-Destructive Testing Tech, Finance Officer, Admin Officer
-- 👀 I’m interested in Deep Learning Problems, RNNs and Generative Deep Learning Problems, possibly applied to Finance
-- 🌱 I’m currently learning Python, Numpy, Deep Learning, Machine Learning
-- 💞️ I’m looking to collaborate on Deep Learning Projects
+- 👀 I'm doing hobby Python coding on misc projects
+- 🌱My current interest is hobby coding the Black-Scholes Option Model, with intersting graphical outputs and inputs from Yahoo Finance.
 - 📫 You can reach me at beachbuddy409@gmail.com
 
 <!---
