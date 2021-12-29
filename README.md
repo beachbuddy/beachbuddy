@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beachbuddy, I am a former physics student, geophysics student, aircraft avionics tech, Non-Destructive Testing Tech, Finance Officer, Admin Officer
 - 👀 I'm doing hobby Python coding on misc projects
 - 🌱My current interest is hobby coding the Black-Scholes Option Model, with interesting graphical outputs in 2 and 3 dimensions and inputs from Yahoo Finance.
-- I am also working on miscellaneous plotting projects.  If you can dream it, I can plot it....
+- I am working on various data visualization projects.
 - 📫 You can reach me at beachbuddy409@gmail.com
 
 <!---
